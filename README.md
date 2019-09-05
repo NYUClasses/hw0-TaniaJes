@@ -18,9 +18,9 @@
 It should look something like this: 
 
 1. Name:
-  * Arnon Lieber
+  * **Tania Gonzalez**
 2. 
-  * 
+  * My Podcast
 3. 
 
 Once you are done, commit your changes, and push to GitHub. 
