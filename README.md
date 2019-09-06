@@ -17,20 +17,8 @@
 
 It should look something like this: 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 1. Name: **Tania Gonzalez**
 2. My Podcast: *The Black Dhalia*
 3. My GitHub Repo: https://github.com/NYUClasses/hw0-TaniaJes.git
-=======
-1. Name: **Tania Gonzalez**
-2. My Podcast: *The Black Dhalia*
-3. My GitHub Repo: https://github.com/TaniaJes 
->>>>>>> d32ac59816b8ad3bee0648606d3b8522ffe4da2b
-=======
-1. Name: **Tania Gonzalez**
-2. My Podcast: *The Black Dhalia*
-3. My GitHub Repo: https://github.com/TaniaJes.git
->>>>>>> c415d58745c946c2076798954222035ca6bbf786
 
 Once you are done, commit your changes, and push to GitHub.
