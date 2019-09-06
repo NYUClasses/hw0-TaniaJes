@@ -17,7 +17,7 @@
 
 It should look something like this: 
 
-1. Name: **Tania Gonzalez**
+1. Name: **Tania González**
 2. My Podcast: *The Black Dhalia*
 3. My GitHub Repo: https://github.com/NYUClasses/hw0-TaniaJes.git
 
