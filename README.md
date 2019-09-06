@@ -19,6 +19,6 @@ It should look something like this:
 
 1. Name: **Tania Gonzalez**
 2. My Podcast: *The Black Dhalia*
-3. My GitHub Repo: https://github.com/TaniaJes 
+3. My GitHub Repo: https://github.com/TaniaJes.git
 
 Once you are done, commit your changes, and push to GitHub.
